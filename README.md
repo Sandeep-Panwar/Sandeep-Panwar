@@ -1,5 +1,4 @@
-# Hi there, I'm Sandeep Panwar 🤚 
-
+# Hi there, I'm Sandeep Panwar 🤚   [![HitCount](http://hits.dwyl.com/Sandeep-Panwar/Sandeep-Panwar.svg)](http://hits.dwyl.com/Sandeep-Panwar/Sandeep-Panwar)
 ## "The noblest pleasure is the joy of understanding."  -Leonardo da Vinci
 
 ### I am Student.
